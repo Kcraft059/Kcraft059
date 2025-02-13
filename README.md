@@ -11,3 +11,4 @@ _“As the reality slowly decays… „_
 	;  ;
 _ \\;_\\//___\|/_ __  _    _
 ```
+[(btw i'm also working on a website)](http://ftnetwork.duckdns.org)
