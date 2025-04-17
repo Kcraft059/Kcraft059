@@ -13,7 +13,7 @@
 
 <br>
 
-**Generally open to all kind of technology, so far, i've participated in little/personnal to medium sized project:**
+**Generally open to all kind of technology, so far, i've participated in little/personnal to medium sized projects:**
 - such as [a website](https://ftnetwork.duckdns.org) **(WIP)** fully coded, and configured by myself through a fully declarative NixOS setup featuring a simple LEMP stack.
 - the translation of the [BetterDisplay App](https://github.com/waydabber/BetterDisplay) to french with the help of @MonolitheMedia.
 - some little macOS scripts of my own.
