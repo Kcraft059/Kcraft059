@@ -4,7 +4,7 @@
 
 <img width="1470" alt="Screenshot 2025-04-10 at 23 36 09" src="https://github.com/user-attachments/assets/d123cf4e-11ea-4d63-8583-5c7df0e9046c" />
 
-> _The future *is* declarative._
+> → _The future *is* declarative._
 
 </div>
 
