@@ -5,11 +5,11 @@
 <img width="1470" alt="Screenshot 2025-04-10 at 23 36 09" src="https://github.com/user-attachments/assets/d123cf4e-11ea-4d63-8583-5c7df0e9046c" />
 
 </div>
-
+> _The future is declarative._
 <br>
 
-> I'm a french student who gained interest in programming during the 2 last years.
-> I, in most cases have absolutely no problem talking fluently english.
+I'm a french student 🇫🇷 who gained interest in programming during the 2 last years.
+I, in most cases have absolutely no problem talking fluently english.
 
 <br>
 
