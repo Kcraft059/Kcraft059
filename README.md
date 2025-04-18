@@ -35,7 +35,7 @@ I, in most cases have absolutely no problem talking fluently english.
 **My hardware :**
 - Laptop : [Arm64] `Macbook Air M3 (2024)`
 - Server : [x86] `Mac Mini Late 2012`
-- _And a lot more junk that doesn"t need to be displayed here…_
+- _And a lot more junk that doesn't need to be displayed here…_
 
 ---
 
