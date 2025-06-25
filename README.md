@@ -2,7 +2,7 @@
 	
 # So, who even am I you may ask ?
 
-<img width="1470" alt="Screenshot 2025-06-25 at 19 23 21" src="https://github.com/user-attachments/assets/7ff30f73-ae69-4a04-aa08-24751b20ea9d" />
+<img width="1470" alt="Screenshot 2025-06-25 at 19 25 02" src="https://github.com/user-attachments/assets/b47bd1dd-63cf-4812-b4f5-f6a994aadc8d" />
 
 > → _The future *is* declarative._
 
