@@ -13,7 +13,7 @@
 I'm a french student 🇫🇷 who gained interest in programming during the 2 last years.
 I, in most cases have absolutely no problem talking fluently english.
 
-(TL;DR: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves)
+_(*TL;DR*: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves)_
 
 <br>
 
