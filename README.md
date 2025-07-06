@@ -15,7 +15,7 @@ I, in most cases have absolutely no problem talking fluently english.
 
 _(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves)_
 
-> [!WARN]
+> [!WARNING]
 > **They/Them**: still haven’t figured out how to properly debug `genderd.service`…)
 
 <br>
