@@ -13,8 +13,6 @@
 I'm a french student 🇫🇷 who gained interest in programming during the 2 last years.
 I, in most cases have absolutely no problem talking fluently english.
 
-_(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves)_
-
 > **They/Them**: still haven’t figured out how to properly debug `genderd.service`…
 
 <br>
@@ -26,6 +24,8 @@ _(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement b
 
 > [!NOTE]
 > If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h.
+
+_(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves)_
 
 ## Hardware / OSes
 
