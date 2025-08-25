@@ -25,7 +25,7 @@ I, in most cases have absolutely no problem talking fluently english.
 > [!NOTE]
 > If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h.
 
-_(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves)_
+_(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves - just go see people more talented than me...)_
 
 ## Hardware / OSes
 
