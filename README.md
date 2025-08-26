@@ -38,7 +38,7 @@ _(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement b
 
 **My hardware :**
 - Laptop : [Arm64] `Macbook Air M3 (2024)`
-- Server : [x86] `Mac Mini Late 2012`
+- Server : [x86] `Mac Mini Late 2012` x2
 - _And a lot more junk that doesn't need to be displayed here…_
 
 ---
