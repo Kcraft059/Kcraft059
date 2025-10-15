@@ -18,7 +18,7 @@ I, in most cases have absolutely no problem talking fluently english.
 <br>
 
 **Generally open to all kind of technology, so far, i've participated in little/personnal to medium sized projects:**
-- such as [a website](https://ftnetwork.duckdns.org) **(WIP)** fully coded, and configured by myself through a fully declarative NixOS setup featuring a simple LEMP stack.
+- such as [a website](https://ftnetwork.duckdns.org) **(WIP)** (private) fully coded in OOP PHP, and configured by myself through a fully declarative NixOS setup featuring a simple LEMP stack.
 - the creation of a versatile and aesthetic [config](https://github.com/kcraft059/sketchybar-config/) for sketchybar.
 - the translation of the [BetterDisplay App](https://github.com/waydabber/BetterDisplay) to french with the help of @MonolitheMedia.
 - some little macOS scripts of my own. (privated)
