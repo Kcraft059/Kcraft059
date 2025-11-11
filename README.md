@@ -20,9 +20,9 @@ I, in most cases have absolutely no problem talking fluently english.
 **Generally open to all kind of technology, so far, i've participated in little/personnal to medium sized projects:**
 
 - Initiating myself to low-level programming by messing with malloc and pointers, see https://github.com/Kcraft059/c-lang-playground (hashmap, dynamic array implementation basic snake game engine).
-- such as [a website](https://ftnetwork.duckdns.org) **(WIP)** (private) fully coded in OOP PHP, and configured by myself through a fully declarative NixOS setup featuring a simple LEMP stack.
-- the creation of a versatile and aesthetic [config](https://github.com/kcraft059/sketchybar-config/) for sketchybar.
-- the translation of the [BetterDisplay App](https://github.com/waydabber/BetterDisplay) to french with the help of @MonolitheMedia.
+- [My website](https://ftnetwork.duckdns.org) **(WIP)** (private) fully coded in OOP PHP, and configured by myself through a fully declarative NixOS setup featuring a simple LEMP stack.
+- A versatile and aesthetic [config](https://github.com/kcraft059/sketchybar-config/) for sketchybar.
+- Translation of the [BetterDisplay App](https://github.com/waydabber/BetterDisplay) to french with the help of @MonolitheMedia.
 
 > [!NOTE]
 > If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h.
