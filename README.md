@@ -16,7 +16,7 @@ But let's start with a few formalities first:
 # Few elements about me 
 Name: Camille
 Pronouns: they/them # TODO: debug genderd.service
-Nationnality: 🇫🇷
+Nationality: 🇫🇷
 Age: 16
 Languages: # I don't master any of those 
  - C # I'm trying to focus on low-level compiled languages for now
@@ -27,8 +27,8 @@ Languages: # I don't master any of those
 ```
 > Yeah… on the moment I thought this would look good… Yeah strange profile for a strange person…
 
-Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student which codes in their free time. My english isn't perfect, but I love practicing it as much as I love talking to people.</br>
-I'm open to all kind of technologies, I'm more interested in low-level programming for now. I use macOS (because it's unix-like) in combination with Nix-Darwin to fully configure my system in a reproducible way.
+Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student who codes in their free time. My english isn't perfect, but I love practicing it as much as I love talking to people.</br>
+I'm open to all kinds of technologies, I'm more interested in low-level programming for now. I use macOS (because it's unix-like) in combination with Nix-Darwin to fully configure my system in a reproducible way.
 
 ## My Journey
 **But let's start at the beginning of my journey, shall we ?**
@@ -51,7 +51,7 @@ This is where it took a turn, I discovered nix, a reproducible & declarative pac
 After I made a config, I saw the world which was openned to me through this package manager, unlimited package access, unlimited tries of anything...</br>
 At this point a new thing went into the equation, I developped the idea of making a website, I later got a new laptop (my M3 Mac Book Air).  </br>
 </br>
-I saw this as an opportunity to turn my old macmini into a server running NixOS. I then made a config, to make a full on home-server with a simple LEMP stack to host my website. In the months following I started to get into code, I started little, with just making some random features, html and css formating etc... but then I started to get into real considerations when I started implementation of a user system, I discovered object oriented programming while doing so, this ended up being a full on framework with identification sytem & database entries. Saddly, I did not implement a front-end yet XD.</br>
+I saw this as an opportunity to turn my old macmini into a server running NixOS. I then made a config, to make a full on home-server with a simple LEMP stack to host my website. In the months following I started to get into code, I started little, with just making some random features, html and css formating etc... but then I started to get into real considerations when I started implementation of a user system, I discovered object oriented programming while doing so, this ended up being a full on framework with identification sytem & database entries. Saddly, I haven't not implemented a front-end yet XD.</br>
 
 ```php
 <?php
@@ -60,7 +60,7 @@ I saw this as an opportunity to turn my old macmini into a server running NixOS.
 ?>
 ```
 
-Following this experience, I started to wonder if i could get into low-level programming like c, and so I did.</br>
+Following this experience, I started to wonder if I could get into low-level programming like c, and so I did.</br>
 I learned c & hardware-level considerations, which bring us up to today, as I'm writting those lines, with the few little libs I made myself (dynamic array & hashmap implementation).
 
 ```c
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 }
 ```
 
-So yeah, that's not huge but given how it started a little year ago, I'm quite proud of the few little projects I've made. I know understand OSes, website and programming as a whole a bit more in depth and hope being able to go even further and make a real project one day.
+So yeah, that's not huge but given how it started a little year ago, I'm quite proud of the few little projects I've made. I now understand OSes, websites and programming as a whole a bit more in depth and hope being able to go even further and make a real project one day.
 </details>
 
 ## Nowadays
@@ -89,7 +89,7 @@ So yeah, that's not huge but given how it started a little year ago, I'm quite p
 
 ## TL;DR :
 
-_I'm a silly kid trying to learn IT by themselves, I code on feelings, while never finishing any project and my learning method makes my code a bit unorthodox.
+_A silly kid trying to learn IT by themselves, Icoding on feelings, never finishing any project and coding on feelings.
 You might just wanna see ppl more talented than me... ^^'_
 
 > [!NOTE]
