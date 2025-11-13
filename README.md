@@ -70,7 +70,7 @@ Tho the frontend to those backend features… is… let's say it's still pending
 
 Following this experience, I started to wonder if I could get into <b>low-level</b> programming like C - so I <b>tried</b> !<br>
 This helped me understand how things really worked under the hood ^^.<br>
-I then did a few libs - implementing dynamic arrays, hasmaps, etc… - where I implemented the concepts i found tricky in C, pointers, type size & mem alloc. (I'm quite proud of those ngl 😅 !)
+I then did a few libs - implementing dynamic arrays, hasmaps, etc… - where I implemented the concepts I found tricky in C, pointers, type size & mem alloc. (I'm quite proud of those ngl 😅 !)
 
 ```c
 #include <stdio.h> // Import definitions for different libs
@@ -105,7 +105,7 @@ As of today I'm really proud of how far I've gone - I realize everyday how much 
 
 ## TL;DR :
 
-_A silly kid trying to learn IT by themselves, coding on feelings & never finishing any project.
+_A silly kid trying to learn IT by themselves, coding on feelings & doing things in the most complicated way possible.
 You might just wanna see ppl more talented than me… ^^'_
 
 > [!NOTE]
