@@ -1,6 +1,6 @@
 <div align="center">	
 	
-<h1>Hi !... So want to know me a bit more ?</h1>
+<h1>Hi ! 🌸 So want to know me a bit more ?</h1>
 <img width="1470" height="956" alt="Screenshot 2025-11-13 at 18 14 15" src="https://github.com/user-attachments/assets/f310f5b2-3ba2-4bc0-a9d5-e4d0f45a7518" />
 
 > → _The future \*might be\* declarative._
@@ -9,7 +9,7 @@
 
 ## Me
 
-So, as i said, **Hi there !!** </br>
+So, as i said, **Hi there !!** 👋<br>
 But let's start with a few formalities first:
 
 ```yaml
@@ -27,73 +27,89 @@ Languages: # I don't master any of those
 ```
 > Yeah… on the moment I thought this would look good… Yeah strange profile for a strange person…
 
-Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student who codes in their free time. My english isn't perfect, but I love practicing it as much as I love talking to people.</br>
+Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student who codes in their free time. My english isn't perfect 😅, but I love practicing it as much as I love talking to people.<br>
 I'm open to all kinds of technologies, I'm more interested in low-level programming for now. I use macOS (because it's unix-like) in combination with Nix-Darwin to fully configure my system in a reproducible way.
 
 ## My Journey
-**But let's start at the beginning of my journey, shall we ?**
+
 <details>
-It started relatively simple, an old piece of junk : my `Late 2012 MacMini`. This piece of tech gave me the passion I have today for IT. After few teardowns & rebuilds of this computer, I figured I wanted to try experimenting a bit with it. After making it support new macOS versions, and having installed ubuntu, I started to understand the system more deeply. Tho it was not without mistakes… I did screw-up macOS instances a few time, and made several complete reinstall cycles a few time ^^'</br>
-</br>
-This is where it took a turn, I discovered nix, a reproducible & declarative package manager (this seemed perfect given how often I reinstalled macos). I made a config… this introduced me the hard way how to actually read documentation & understand the concepts of a language:
+<summary>But let's start at the beginning of my journey, shall we ?</summary>
+<br>
+It started relatively simple, an old piece of junk : my <b>Late 2012 MacMini</b>.<br>
+This piece of tech gave me the passion I have today for IT. It started with a few teardowns & rebuild, which made me want to experiment more - forcing macOS Suppport through <b>OCLP</b>, installation of <b>Ubunutu</b> on dual boot, all those which helped me understand how computers worked more in depth !<br>
+Tho it was not without mistakes… I did screw-up my macOS instances a few time 🥲, and made more reinstalls than any sane person would do 🫠<br>
+<br>
+This is where it took a turn - I discovered Nix, a reproducible & declarative package manager (this seemed perfect given how often I reinstalled macos).<br>
+I made a config… and soon realised I fell into a rabbit hole as I found myself digging into docs at 2am swearing at a scope bug because I did not pass an input… (true 'me' fashion tbh 🥰)
 
 ```nix
 {pkgs, lib, ...} :
 {
 	service.readme = {
 		enable = true;
-		config.welcomeMsg = "Nix is steep learning curve… "; # And at the time, the hardest thing I ever done was a for loop in bash
+		config.welcomeMsg = "Nix has a steep learning curve… "; # And at the time, the hardest thing I ever done was a for loop in bash
 	};
 }
 
 ```
 
-After I made a config, I saw the world which was openned to me through this package manager, unlimited package access, unlimited tries of anything...</br>
-At this point a new thing went into the equation, I developped the idea of making a website, I later got a new laptop (my M3 Mac Book Air).  </br>
-</br>
-I saw this as an opportunity to turn my old macmini into a server running NixOS. I then made a config, to make a full on home-server with a simple LEMP stack to host my website. In the months following I started to get into code, I started little, with just making some random features, html and css formating etc... but then I started to get into real considerations when I started implementation of a user system, I discovered object oriented programming while doing so, this ended up being a full on framework with identification sytem & database entries. Saddly, I haven't not implemented a front-end yet XD.</br>
+After I made this config, I saw the potential I had in my hands, access to unlimited packages, and a growing interest for programming !<br>
+
+At some point after, I got an idea - making a <b>website</b>. At the time I only had a vague idea of what it consisted of - a server, a software to run the server ?<br>
+I made a few research, I already had the idea to install a headless NixOS version on my MacMini which I knew I'd soon replace with a new Mac Book Air. And so, I made a config in nix, I choose a <b>LEMP</b> stack and got to coding !<br>
+The months that followed were really interesting, I learned how to manage a server, how to use ssh etc… The next step being the website itself, I started to get into html, css, php & sql, at some point I even made a full framework for a user system in <b>OOP</b> !<br>
+
+Tho the frontend to those backend features… is… let's say it's still pending 🙄
 
 ```php
 <?php
 	http_response_code(404);
-	echo "Ok… I might have not implemented this yet";
+	echo "Oh… I might have not implemented this yet - swy";
 ?>
 ```
 
-Following this experience, I started to wonder if I could get into low-level programming like c, and so I did.</br>
-I learned c & hardware-level considerations, which bring us up to today, as I'm writting those lines, with the few little libs I made myself (dynamic array & hashmap implementation).
+Following this experience, I started to wonder if I could get into <b>low-level</b> programming like C - so I <b>tried</b> !<br>
+This helped me understand how things really worked under the hood ^^.<br>
+I then did a few libs - implementing dynamic arrays, hasmaps, etc… - where I implemented the concepts i found tricky in C, pointers, type size & mem alloc. (I'm quite proud of those ngl 😅 !)
 
 ```c
-#include <stdio.h>
+#include <stdio.h> // Import definitions for different libs
+#include <string.h>
 #include <stdlib.h>
 
-int main(int argc, char** argv) {
-  char* string = malloc(sizeof(char) * 5);
-  memcpy(string,"Yeah", sizeof(char) * 5);
-  printf("%s, after php, c did taste harder ^^'\n",string);
-  free(string);
+int main(int argc, char** argv) { // And this time I actually started to comment my code 
+  char* string = malloc(sizeof(char) * 5); // Alloc mem in stack for string
+  memcpy(string,"Yeah", sizeof(char) * 5); // Copies mem from adress of "Yeah" to string, on 5 bytes
+
+  printf("%s, after php, c did taste harder ^^'\n",string); // Print to stdout replacing %s which the string in string
+
+  free(string); // Free mem, make it usable again by any other part of the computer  
 }
 ```
 
-So yeah, that's not huge but given how it started a little year ago, I'm quite proud of the few little projects I've made. I now understand OSes, websites and programming as a whole a bit more in depth and hope being able to go even further and make a real project one day.
+So yeah, not much in fact 😅, but I'm learning things and having fun doing so and this might be the most important thing to remenber !<br>
+As of today I'm really proud of how far I've gone - I realize everyday how much I still have to learn. But looking back at my knowledge from a year ago, I only am more confident that with time I'll improve my skills !
+
+> I know this is a bit unusual for a Github Profile, but I mean, my profile, my decisions ¯\_(ツ)_/¯
+
 </details>
 
 ## Nowadays
 **My 'projects' :**
 
-- Low level [programing in C](<https://www.github.com/kcraft059/c-lang-playground>)
-- An unfinished [website](<https://ftnetwork.duckdns.org/>)
--	A sketchybar [config](<https://www.github.com/kcraft059/sketchybar-config>)
--	A declarative Nix [config](<https://www.github.com/kcraft059/Nix-Config/>)
--	Help in the transaltion of [Better-Display](<https://www.github.com/waydabber/better-display>)
+- ⚙️ Low level [programing in C](<https://www.github.com/kcraft059/c-lang-playground>)
+- 🌐 An unfinished [website](<https://ftnetwork.duckdns.org/>)
+-	🛠️ A sketchybar [config](<https://www.github.com/kcraft059/sketchybar-config>)
+-	📋 A declarative Nix [config](<https://www.github.com/kcraft059/Nix-Config/>)
+- 🇬🇧 Help in the translation of [Better-Display](<https://www.github.com/waydabber/better-display>)
 
 ## TL;DR :
 
-_A silly kid trying to learn IT by themselves, Icoding on feelings, never finishing any project and coding on feelings.
-You might just wanna see ppl more talented than me... ^^'_
+_A silly kid trying to learn IT by themselves, coding on feelings & never finishing any project.
+You might just wanna see ppl more talented than me… ^^'_
 
 > [!NOTE]
-> If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h.
+> If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h ^^!
 
 ## Hardware / OSes
 
@@ -107,7 +123,7 @@ You might just wanna see ppl more talented than me... ^^'_
 **My hardware :**
 - Laptop : [Arm64] `Macbook Air M3 (2024)`
 - Server : [x86] `Mac Mini Late 2012` x2
-- _And a lot more junk that doesn't need to be displayed here…_
+- _And a lot more junk that doesn't need to be displayed here 😅…_
 
 ---
 
