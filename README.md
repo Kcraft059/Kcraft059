@@ -31,11 +31,11 @@ Languages: # I don't master any of those
 Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student which codes in their free time. My english isn't perfect, but I love practicing it as much as I love talking to people.</br>
 I'm open to all kind of technologies, I'm more interested in low-level programming for now. I use macOS (because it's unix-like) in combination with Nix-Darwin to fully configure my system in a reproducible way.
 
-**But let's start at the beginning of my journey, shall we ?**
-
 ## My Journey
+**But let's start at the beginning of my journey, shall we ?**
 <details>
-It started relatively simple, an old piece of junk : my `Late 2012 MacMini`. This piece of tech gave me the passion I have today for IT. After few teardowns & rebuilds of this computer, I figured I wanted to try experimenting a bit with it. After making it support new macOS versions, and having installed ubuntu, I started to understand the system more deeply. Tho it was not without mistakes… I did screw-up macOS instances a few time, and made several complete reinstall cycles a few time ^^' </br>
+It started relatively simple, an old piece of junk : my `Late 2012 MacMini`. This piece of tech gave me the passion I have today for IT. After few teardowns & rebuilds of this computer, I figured I wanted to try experimenting a bit with it. After making it support new macOS versions, and having installed ubuntu, I started to understand the system more deeply. Tho it was not without mistakes… I did screw-up macOS instances a few time, and made several complete reinstall cycles a few time ^^'
+	
 This is where it took a turn, I discovered nix, a reproducible & declarative package manager (this seemed perfect given how often I reinstalled macos). I made a config… this introduced me the hard way how to actually read documentation & understand the concepts of a language:
 
 ```nix
@@ -50,7 +50,9 @@ This is where it took a turn, I discovered nix, a reproducible & declarative pac
 ```
 
 After I made a config, I saw the world which was openned to me through this package manager, unlimited package access, unlimited tries of anything...</br>
-At this point a new thing went into the equation, I developped the idea of making a website, I later got a new laptop (my M3 Mac Book Air). I saw this as an opportunity to turn my old macmini into a server running NixOS. I then made a config, to make a full on home-server with a simple LEMP stack to host my website. In the months following I started to get into code, I started little, with just making some random features, html and css formating etc... but then I started to get into real considerations when I started implementation of a user system, I discovered object oriented programming while doing so, this ended up being a full on framework with identification sytem & database entries. Saddly, I did not implement a front-end yet XD.</br>
+At this point a new thing went into the equation, I developped the idea of making a website, I later got a new laptop (my M3 Mac Book Air).
+
+I saw this as an opportunity to turn my old macmini into a server running NixOS. I then made a config, to make a full on home-server with a simple LEMP stack to host my website. In the months following I started to get into code, I started little, with just making some random features, html and css formating etc... but then I started to get into real considerations when I started implementation of a user system, I discovered object oriented programming while doing so, this ended up being a full on framework with identification sytem & database entries. Saddly, I did not implement a front-end yet XD.</br>
 
 ```php
 <?php
@@ -59,7 +61,8 @@ At this point a new thing went into the equation, I developped the idea of makin
 ?>
 ```
 
-Following this experience, I started to wonder if i could get into low-level programming like c, and so I did, I learned c & hardware-level considerations, which bring us up to today, as I'm writting those lines, a few little libs I did (dynamic array & hashmap implementation I made myself).
+Following this experience, I started to wonder if i could get into low-level programming like c, and so I did.  
+I learned c & hardware-level considerations, which bring us up to today, as I'm writting those lines, with the few little libs I made myself (dynamic array & hashmap implementation).
 
 ```c
 #include <stdio.h>
@@ -67,7 +70,7 @@ Following this experience, I started to wonder if i could get into low-level pro
 
 int main(int argc, char** argv) {
   char* string = malloc(sizeof(char) * 5);
-  memcpy(string,(char*)"Yeah", sizeof(char) * 5);
+  memcpy(string,"Yeah", sizeof(char) * 5);
   printf("%s, after php, c did taste harder ^^'\n",string);
   free(string);
 }
@@ -87,7 +90,7 @@ So yeah, that's not huge but given how it started a little year ago, I'm quite p
 
 ## TL;DR :
 
-_I'm a silly kid trying to learn IT by themselves, I code on feekings, while never finishing any project and my learning method makes my code a bit unorthodox.
+_I'm a silly kid trying to learn IT by themselves, I code on feelings, while never finishing any project and my learning method makes my code a bit unorthodox.
 You might just wanna see ppl more talented than me... ^^'_
 
 > [!NOTE]
