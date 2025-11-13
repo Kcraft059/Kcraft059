@@ -28,7 +28,7 @@ Languages: # I don't master any of those
 > Yeah… on the moment I thought this would look good… Yeah strange profile for a strange person…
 
 Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student who codes in their free time. My english isn't perfect 😅, but I love practicing it as much as I love talking to people.<br>
-I'm open to all kinds of technologies, I'm more interested in low-level programming for now. I use macOS (because it's UNIX-like - tho let's be honest it's extremely restrictive[^1]) in combination with Nix-Darwin to fully configure my system in a reproducible way.
+I’m interested in pretty much every tech domain, though lately I started to specifically dive into <b>low-level programming</b>. I use macOS (because it's UNIX-like - tho let's be honest it's extremely restrictive[^1]) in combination with Nix-Darwin to fully configure my system in a reproducible way.
 
 ## My Journey
 
@@ -36,8 +36,8 @@ I'm open to all kinds of technologies, I'm more interested in low-level programm
 <summary>But let's start at the beginning of my journey, shall we ?</summary>
 <br>
 It started relatively simple, an old piece of junk : my <b>Late 2012 MacMini</b>.<br>
-This piece of tech gave me the passion I have today for IT. It started with a few teardowns & rebuild, which made me want to experiment more - forcing macOS Suppport through <b>OCLP</b>, installation of <b>Ubunutu</b> on dual boot, all those which helped me understand how computers worked more in depth !<br>
-Tho it was not without mistakes… I did screw-up my macOS instances a few time 🥲, and made more reinstalls than any sane person would do 🫠<br>
+This piece of tech gave me the passion I have today for IT. It started with a few teardowns & rebuild, which made me want to experiment more - forcing macOS suppport through <b>OCLP</b>, installation of <b>Ubuntu</b> on dual boot, all those which helped me understand how computers worked more in depth !<br>
+Tho it was not without mistakes… I did screw-up my macOS instances a few time 🥲, and made more reinstalls than any sane person should do 🫠<br>
 <br>
 This is where it took a turn - I discovered Nix, a reproducible & declarative package manager (this seemed perfect given how often I reinstalled macos).<br>
 I made a config… and soon realised I fell into a rabbit hole as I found myself digging into docs at 2am swearing at a scope bug because I did not pass an input… (true 'me' fashion tbh 🥰)
@@ -56,7 +56,7 @@ I made a config… and soon realised I fell into a rabbit hole as I found myself
 After I made this config, I saw the potential I had in my hands, access to unlimited packages, and a growing interest for programming !<br>
 
 At some point after, I got an idea - making a <b>website</b>. At the time I only had a vague idea of what it consisted of - a server, a software to run the server ?<br>
-I made a few research, I already had the idea to install a headless NixOS version on my MacMini which I knew I'd soon replace with a new Mac Book Air. And so, I made a config in nix, I choose a <b>LEMP</b> stack and got to coding !<br>
+I made a few research, I already had the idea to install a headless NixOS version on my MacMini which I knew I'd soon replace with a new Mac Book Air. And so, I made a config in nix, I chose a <b>LEMP</b> stack and got to coding !<br>
 The months that followed were really interesting, I learned how to manage a server, how to use ssh etc… The next step being the website itself, I started to get into html, css, php & sql, at some point I even made a full framework for a user system in <b>OOP</b> !<br>
 
 Tho the frontend to those backend features… is… let's say it's still pending 🙄
@@ -109,7 +109,7 @@ _A silly kid trying to learn IT by themselves, coding on feelings & never finish
 You might just wanna see ppl more talented than me… ^^'_
 
 > [!NOTE]
-> If you want to contact me you can do it over Discord[^2], and expect an answer in the near 24h ^^!
+> If you want to contact me you can do it over Discord[^2], and expect an answer within 24h ^^!
 
 ## Hardware / OSes
 
@@ -141,5 +141,5 @@ _ \\;_\\//___\|/_ __  _    _
 ```
 _“As the reality slowly decays… „_
 
-[^1]: Tho a little `csrutil disable; csrutil authenticated-root disable` makes it surrender easely 🥰
+[^1]: Tho a little `csrutil disable; csrutil authenticated-root disable` makes it surrender easily 🥰
 [^2]: Id: @kcraft059, message requests opened.
