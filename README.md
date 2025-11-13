@@ -9,7 +9,7 @@
 
 ## Me
 
-So, as i said, **Hi there !!** 👋<br>
+So, as I said, **Hi there !!** 👋<br>
 But let's start with a few formalities first:
 
 ```yaml
@@ -28,7 +28,7 @@ Languages: # I don't master any of those
 > Yeah… on the moment I thought this would look good… Yeah strange profile for a strange person…
 
 Anyway, I'm Camille, I also go by `Kcraft⁰⁵⁹` online, I'm a french high-school student who codes in their free time. My english isn't perfect 😅, but I love practicing it as much as I love talking to people.<br>
-I'm open to all kinds of technologies, I'm more interested in low-level programming for now. I use macOS (because it's unix-like - tho let's be ho,est is extremely restrictive, I'm not a huge fan of SIP, let's just say I love living dangerously) in combination with Nix-Darwin to fully configure my system in a reproducible way.
+I'm open to all kinds of technologies, I'm more interested in low-level programming for now. I use macOS (because it's UNIX-like - tho let's be honest it's extremely restrictive[^1]) in combination with Nix-Darwin to fully configure my system in a reproducible way.
 
 ## My Journey
 
@@ -109,7 +109,7 @@ _A silly kid trying to learn IT by themselves, coding on feelings & never finish
 You might just wanna see ppl more talented than me… ^^'_
 
 > [!NOTE]
-> If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h ^^!
+> If you want to contact me you can do it over Discord[^2], and expect an answer in the near 24h ^^!
 
 ## Hardware / OSes
 
@@ -141,5 +141,5 @@ _ \\;_\\//___\|/_ __  _    _
 ```
 _“As the reality slowly decays… „_
 
-
-[^1]: Id: @kcraft059, message requests opened.
+[^1]: Tho a little `csrutil disable; csrutil authenticated-root disable` makes it surrender easely 🥰
+[^2]: Id: @kcraft059, message requests opened.
