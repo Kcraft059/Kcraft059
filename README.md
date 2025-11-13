@@ -1,7 +1,6 @@
 <div align="center">	
 	
-# Hi !... So want to know me a bit more ?
-
+<h1>Hi !... So want to know me a bit more ?</h1>
 <img width="1470" height="956" alt="Screenshot 2025-11-13 at 18 14 15" src="https://github.com/user-attachments/assets/f310f5b2-3ba2-4bc0-a9d5-e4d0f45a7518" />
 
 > → _The future \*might be\* declarative._
