@@ -35,11 +35,11 @@ I’m interested in pretty much every tech domain, though lately I started to sp
 <details>
 <summary>But let's start at the beginning of my journey, shall we ?</summary>
 <br>
-It started relatively simple, an old piece of junk : my <b>Late 2012 MacMini</b>.<br>
-This piece of tech gave me the passion I have today for IT. It started with a few teardowns & rebuild, which made me want to experiment more - forcing macOS suppport through <b>OCLP</b>, installation of <b>Ubuntu</b> on dual boot, all those which helped me understand how computers worked more in depth !<br>
+It started relatively simple, an old piece of junk: my <b>Late 2012 MacMini</b>.<br>
+This piece of tech gave me the passion I have today for IT. It started with a few teardowns & rebuild, which made me want to experiment more like forcing macOS suppport through <b>OCLP</b>, installation of <b>Ubuntu</b> on dual boot, all those which helped me understand how computers worked more in depth !<br>
 Tho it was not without mistakes… I did screw-up my macOS instances a few time 🥲, and made more reinstalls than any sane person should do 🫠<br>
 <br>
-This is where it took a turn - I discovered Nix, a reproducible & declarative package manager (this seemed perfect given how often I reinstalled macos).<br>
+This is where it took a turn when I discovered Nix, a reproducible & declarative package manager (this seemed perfect given how often I reinstalled macos).<br>
 I made a config… and soon realised I fell into a rabbit hole as I found myself digging into docs at 2am swearing at a scope bug because I did not pass an input… (true 'me' fashion tbh 🥰)
 
 ```nix
@@ -55,7 +55,7 @@ I made a config… and soon realised I fell into a rabbit hole as I found myself
 
 After I made this config, I saw the potential I had in my hands, access to unlimited packages, and a growing interest for programming !<br>
 
-At some point after, I got an idea - making a <b>website</b>. At the time I only had a vague idea of what it consisted of - a server, a software to run the server ?<br>
+At some point after, I got the idea of making a <b>website</b>. At the time I only had a vague idea of what it consisted of... a server, a software to run the server ?<br>
 I made a few research, I already had the idea to install a headless NixOS version on my MacMini which I knew I'd soon replace with a new Mac Book Air. And so, I made a config in nix, I chose a <b>LEMP</b> stack and got to coding !<br>
 The months that followed were really interesting, I learned how to manage a server, how to use ssh etc… The next step being the website itself, I started to get into html, css, php & sql, at some point I even made a full framework for a user system in <b>OOP</b> !<br>
 
@@ -70,7 +70,7 @@ Tho the frontend to those backend features… is… let's say it's still pending
 
 Following this experience, I started to wonder if I could get into <b>low-level</b> programming like C - so I <b>tried</b> !<br>
 This helped me understand how things really worked under the hood ^^.<br>
-I then did a few libs - implementing dynamic arrays, hasmaps, etc… - where I implemented the concepts I found tricky in C, pointers, type size & mem alloc. (I'm quite proud of those ngl 😅 !)
+I then did a few libs (implementing dynamic arrays & hasmaps from scratch) where I implemented the concepts I found tricky in C, pointers, type size & mem alloc. (I'm quite proud of those ngl 😅 !)
 
 ```c
 #include <stdio.h> // Import definitions for different libs
@@ -88,7 +88,7 @@ int main(int argc, char** argv) { // And this time I actually started to comment
 ```
 
 So yeah, not much in fact 😅, but I'm learning things and having fun doing so and this might be the most important thing to remenber !<br>
-As of today I'm really proud of how far I've gone - I realize everyday how much I still have to learn. But looking back at my knowledge from a year ago, I only am more confident that with time I'll improve my skills !
+As of today I'm really proud of how far I've gone and I realize everyday how much I still have to learn. But looking back at my knowledge from a year ago, I only am more confident that with time I'll improve my skills !
 
 > I know this is a bit unusual for a Github Profile, but I mean, my profile, my decisions ¯\_(ツ)_/¯
 
