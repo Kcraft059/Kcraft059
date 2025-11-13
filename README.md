@@ -1,33 +1,41 @@
 <div align="center">	
 	
-# So, who even am I you may ask ?
+# Hi !... So want to know me a bit more ?
 
-<img width="1470" alt="Screenshot 2025-06-25 at 19 25 02" src="https://github.com/user-attachments/assets/b47bd1dd-63cf-4812-b4f5-f6a994aadc8d" />
+<img width="1470" height="956" alt="Screenshot 2025-11-13 at 18 14 15" src="https://github.com/user-attachments/assets/f310f5b2-3ba2-4bc0-a9d5-e4d0f45a7518" />
 
-> → _The future *is* declarative._
+> → _The future \*might be\* declarative._
 
 </div>
 
-<br>
+## Me
 
-I'm a french student 🇫🇷 who gained interest in programming during the last 2 years.
-I, in most cases have absolutely no problem talking fluently english.
+So, as i said, Hi there !! (Yeah strange profile for a strange person…)
+But let's start with a few formalities first:
 
-> **They/Them**: still haven’t figured out how to properly debug `genderd.service`…
+```yaml
+# Spec sheet
+Name: Camille
+Nationnality: 🇫🇷
+Age: 16
+```
+Yeah… on the moment I thought this would look good…
 
-<br>
 
-**Generally open to all kind of technology, so far, i've participated in little/personnal to medium sized projects:**
+**My 'projects' :**
 
-- Initiating myself to low-level programming by messing with malloc and pointers, see https://github.com/Kcraft059/c-lang-playground (hashmap, dynamic array implementation basic snake game engine).
-- [My website](https://ftnetwork.duckdns.org) **(WIP)** (private) fully coded in OOP PHP, and configured by myself through a fully declarative NixOS setup featuring a simple LEMP stack.
-- A versatile and aesthetic [config](https://github.com/kcraft059/sketchybar-config/) for sketchybar.
-- Translation of the [BetterDisplay App](https://github.com/waydabber/BetterDisplay) to french with the help of @MonolitheMedia.
+- 
+-
+-
+-
+
+**TL;DR :**
+
+_I'm a silly kid trying to learn IT by themselves, I code on feekings, while never finishing any project and my learning method makes my code a bit unorthodox.
+You might just wanna see ppl more talented than me... ^^'_
 
 > [!NOTE]
 > If you want to contact me you can do it over Discord[^1], and expect an answer in the near 24h.
-
-_(**TL;DR**: I'm just a silly 16 years-old kid trying to learn IT/developement by themselves - just go see people more talented than me...)_
 
 ## Hardware / OSes
 
