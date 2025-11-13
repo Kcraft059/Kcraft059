@@ -78,7 +78,7 @@ I then did a few libs - implementing dynamic arrays, hasmaps, etc… - where I i
 #include <stdlib.h>
 
 int main(int argc, char** argv) { // And this time I actually started to comment my code 
-  char* string = malloc(sizeof(char) * 5); // Alloc mem in stack for string
+  char* string = malloc(sizeof(char) * 5); // Alloc mem on heap for string
   memcpy(string,"Yeah", sizeof(char) * 5); // Copies mem from adress of "Yeah" to string, on 5 bytes
 
   printf("%s, after php, c did taste harder ^^'\n",string); // Print to stdout replacing %s which the string in string
