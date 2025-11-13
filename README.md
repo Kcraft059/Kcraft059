@@ -36,16 +36,44 @@ I'm open to all kind of technologies, I'm more interested in low-level programmi
 ## My Journey
 <details>
 It started relatively simple, an old piece of junk : my `Late 2012 MacMini`. This piece of tech gave me the passion I have today for IT. After few teardowns & rebuilt of this computer, I figured I wanted to try experimenting a bit with it, after making it support new macOS versions, and having installed ubuntu, I started to understand the system more deeply. Tho it was not without mistakes… I did screw-up macOS instances a few time, and made several complete reinstall cycles a few time ^^' </br>
-This is where it took a turn, I discovered nix, a reporducible & declarative package manager (this seemed perfect given how often i reinstalled macos). I made a config… this introduced me the hard way how to actually read documentation & understand the concepts of a language;
+This is where it took a turn, I discovered nix, a reporducible & declarative package manager (this seemed perfect given how often i reinstalled macos). I made a config… this introduced me the hard way how to actually read documentation & understand the concepts of a language:
 
 ```nix
 {pkgs, lib, ...} :
 {
-	
+	service.readme = {
+		enable = true;
+		config.welcomeMsg = "Nix is harder than it can seem..."; # And at the time, the hardest thing I ever done was a for loop in bash
+	};
 }
 
 ```
-	
+
+After I made a config, I saw the world which was openned to me through this package manager, unlimited package access, unlimited tries of anything...</br>
+At this point a new thing went into the equation, I developped the idea of making a website, i later got a new laptop (my M3 MacBookAir). I saw this as an opportunity to turn my old macmini into a server running NixOS. I then made a config, to make a full on home-server with a simple LEMP stack to host my website. In the months following I started to get into code, I started little, with just makeing some random features, html and css formating etc... but then I started to get into real considerations when I started implementation of a user system, I discovered object oriented programming while doing so, this ended up being a full on framework with identification sytem & database entries. Saddly, I did not implement a front-end yet.</br>
+
+```php
+<?php
+	http_response_code(404);
+	echo "Ok… I might have not implemented this yet";
+?>
+```
+
+Following this experience, I started to wonder if i could get into low-level programming like c, and so I did, I learned c & hardware-level considerations, which bring us up to today, as i'm writting those lines, a few little libs I did (dynamic array & hashmap implementation I made by myself).
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char** argv) {
+  char* string = malloc(sizeof(char) * 5);
+  memcpy(string,(char*)"Yeah", sizeof(char) * 5);
+  printf("%s, after php, c did taste harder ^^'\n",string);
+  free(string);
+}
+```
+
+So yeah, that's not huge but given how it started a little year ago, I'm quite proud of the few little projects I've made. I know understand OSes, website and programming as a whole a bit more in depth and hope being able to go even further and make a real project one day.
 </details>
 
 ## Nowadays
@@ -54,7 +82,7 @@ This is where it took a turn, I discovered nix, a reporducible & declarative pac
 - Low level [programing in C](<https://www.github.com/kcraft059/c-lang-playground>)
 - An unfinished [website](<https://ftnetwork.duckdns.org/>)
 -	A sketchybar [config](<https://www.github.com/kcraft059/sketchybar-config>)
--	A declartive Nix [config](<https://www.github.com/kcraft059/Nix-Config/>)
+-	A declarative Nix [config](<https://www.github.com/kcraft059/Nix-Config/>)
 -	Help in the transaltion of [Better-Display](<https://www.github.com/waydabber/better-display>)
 
 ## TL;DR :
