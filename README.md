@@ -46,7 +46,7 @@ I made a config… and soon realised I fell into a rabbit hole as I found myself
 {pkgs, lib, ...} :
 {
   service.readme = {
-		  enable = true;
+    enable = true;
     config.welcomeMsg = "Nix has a steep learning curve… "; # And at the time, the hardest thing I ever done was a for loop in bash
   };
 }
