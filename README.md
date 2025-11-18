@@ -45,10 +45,10 @@ I made a config… and soon realised I fell into a rabbit hole as I found myself
 ```nix
 {pkgs, lib, ...} :
 {
-	service.readme = {
-		enable = true;
-		config.welcomeMsg = "Nix has a steep learning curve… "; # And at the time, the hardest thing I ever done was a for loop in bash
-	};
+  service.readme = {
+		  enable = true;
+    config.welcomeMsg = "Nix has a steep learning curve… "; # And at the time, the hardest thing I ever done was a for loop in bash
+  };
 }
 
 ```
@@ -63,8 +63,8 @@ Tho the frontend to those backend features… is… let's say it's still pending
 
 ```php
 <?php
-	http_response_code(404);
-	echo "Oh… I might have not implemented this yet - swy";
+  http_response_code(404);
+  echo "Oh… I might have not implemented this yet - swy";
 ?>
 ```
 
