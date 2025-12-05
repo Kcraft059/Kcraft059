@@ -101,7 +101,7 @@ As of today I'm really proud of how far I've gone and I realize everyday how muc
 - 🌐 An unfinished [website](<https://ftnetwork.duckdns.org/>)
 -	🛠️ A sketchybar [config](<https://www.github.com/kcraft059/sketchybar-config>)
 -	📋 A declarative Nix [config](<https://www.github.com/kcraft059/Nix-Config/>)
-- 🇬🇧 Help in the translation of [Better-Display](<https://www.github.com/waydabber/better-display>)
+- 🇬🇧 Help in the translation of [BetterDisplay](<https://www.github.com/waydabber/betterdisplay>)
 
 ## TL;DR :
 
