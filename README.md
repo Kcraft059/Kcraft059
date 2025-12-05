@@ -90,7 +90,7 @@ int main(int argc, char** argv) { // And this time I actually started to comment
 So yeah, not much in fact 😅, but I'm learning things and having fun doing so and this might be the most important thing to remenber !<br>
 As of today I'm really proud of how far I've gone and I realize everyday how much I still have to learn. But looking back at my knowledge from a year ago, I only am more confident that with time I'll improve my skills !
 
-> I know this is a bit unusual for a Github Profile, but I mean, my profile, my decisions ¯\\_(ツ)_/¯
+> I know this is a bit unusual for a Github Profile, but I mean, my profile, my decisions ¯\\\_(ツ)\_/¯
 
 </details>
 
