@@ -19,11 +19,13 @@ Pronouns: they/them # TODO: debug genderd.service
 Nationality: 🇫🇷
 Age: 16
 Languages: # I don't master any of those 
- - C # I'm trying to focus on low-level compiled languages for now
- - Nix # Mainly for env config & dev shells
- - PHP # (alongside other front-end languages like JS)
+ - C 	  # I'm trying to focus on low-level compiled languages for now
+ - Nix    # Mainly for env config & dev shells
+ - PHP    # (alongside other front-end languages like JS)
  - Bash / Zsh
  - Python # I don't use it that much anymore
+ - Go     # For an upcoming version of my website
+ - ASM    # (On avr)
 ```
 > Yeah… on the moment I thought this would look good… Yeah strange profile for a strange person…
 
