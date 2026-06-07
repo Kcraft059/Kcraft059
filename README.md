@@ -17,7 +17,7 @@ But let's start with a few formalities first:
 Name: Camille
 Pronouns: they/them # TODO: debug genderd.service
 Nationality: 🇫🇷
-Age: 16
+Age: 17
 Languages: # I don't master any of those 
  - C 	  # I'm trying to focus on low-level compiled languages for now
  - Nix    # Mainly for env config & dev shells
